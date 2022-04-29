@@ -1,7 +1,7 @@
 ## 最初の一歩
 
 ```
-$ export HOSTNAME=my-minio-localhost-alias
+$ export HOSTNAME=minio
 $ docker-compose up -d
 ```
 
